@@ -1,9 +1,9 @@
 - ## Profil xQuiz
-    - [A propos](/docs/xquiz/readme)
-    - [Identification](/docs/xquiz/id)
-    - [Vocabulaire](/docs/xquiz/vocab)
-    - [Statements](/docs/xquiz/statements)
+    - [A propos](/profiles/xquiz/readme)
+    - [Identification](/profiles/xquiz/id)
+    - [Vocabulaire](/profiles/xquiz/vocab)
+    - [Statements](/profiles/xquiz/statements)
 
 - ## xAPI.fr
-    - [A propos](/docs/xapi/readme)
+    - [A propos](/profiles/xapi/readme)
 
