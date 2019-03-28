@@ -271,6 +271,7 @@
 ### L02 - L’apprenant s’est déclaré perdu.
 
 - La session xQuiz DOIT être indiquée dans la propriété `context.contextActivities.parent`. 
+- La propriété `context.instructor` DOIT être présente et préciser l'enseignant qui a posé la question concerné.
 
 ``` json
 {
@@ -327,6 +328,13 @@
                     }
                 }
             ]
+        },
+        "instructor": {
+            "objectType": "Agent",
+            "account": {
+                "name": "b1f6a84b-de23-3e28-9f34-48344e2f20df",
+                "homePage": "http://moodle.isae.fr"
+            }
         },
         "platform": "xQuiz"
     },

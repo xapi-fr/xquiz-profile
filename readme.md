@@ -13,7 +13,7 @@ Le profil xAPI xQuiz définit les règles d'utilisation d'xAPI dans le cadre de 
 
 Cette spécification est distribuée sous licence Apache, Version 2.0, dont une copie est disponible ici : http://www.apache.org/licenses/LICENSE-2.0.
 
-Copyright 2019 ISAE-SUPAERO (https://www.isae-supaero.fr), Sébastien Fraysse (http://fraysse.eu).
+Copyright 2019 ISAE-SUPAERO (https://www.isae-supaero.fr).
 
 
 
