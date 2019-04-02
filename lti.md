@@ -40,7 +40,7 @@ Pour pouvoir générer des données xAPI à partir de ces informations, un servi
 
 - Naviguer dans un cours, puis une activité LTI afin de vérifier que les Statements sont bien générés et envoyés au LRS.
 
-### Moodle
+### Moodle 3.5
 
 - Utiliser Moodle 3.5 avec TRAX Logs installé au préalable.
 
@@ -60,7 +60,7 @@ Pour pouvoir générer des données xAPI à partir de ces informations, un servi
 
 - Méthode : POST
 
-- Endpoint : `http://my-moodle.com/webservice/rest/server.php?moodlewsrestformat=json&wsfunction=xxx&wstoken=yyy` où `xxx` est le nom de la fonction, à savoir `logstore_trax_get_activities` ou `logstore_trax_get_actors`.
+- Endpoint : `http://my-moodle.com/webservice/rest/server.php?moodlewsrestformat=json&wsfunction=xxx&wstoken=yyy` où `xxx` est le nom de la fonction, à savoir `logstore_trax_get_activities` ou `logstore_trax_get_actors`, et `yyy` le numéro de token généré dans Moodle.
 
 
 <a name="input"></a>
