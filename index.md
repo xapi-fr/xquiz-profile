@@ -1,10 +1,10 @@
 - ## Profil xQuiz
-    - [A propos](/profiles/xquiz/readme)
+    - [A propos](/profiles/xquiz)
     - [Identification](/profiles/xquiz/id)
     - [Vocabulaire](/profiles/xquiz/vocab)
     - [Statements](/profiles/xquiz/statements)
     - [Intégration LTI](/profiles/xquiz/lti)
 
 - ## xAPI.fr
-    - [A propos](/profiles/xapi/readme)
+    - [A propos](/profiles/xapi)
 
