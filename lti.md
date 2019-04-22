@@ -120,19 +120,19 @@ Une liste d'objets avec pour chacun d'eux un `type` et un  `id` Moodle (les mêm
 ``` json
 [
     {
-        type: "system",
-        id: 0,
-        xapi: "{\"objectType\":\"Activity\",\"id\":\"http:\\\/\\\/xapi.moodle.test\\\/xapi\\\/activities\\\/system\",\"definition\":{\"type\":\"http:\\\/\\\/vocab.xapi.fr\\\/activities\\\/system\"}}"
+        "type": "system",
+        "id": 0,
+        "xapi": "{\"objectType\":\"Activity\",\"id\":\"http:\\\/\\\/xapi.moodle.test\\\/xapi\\\/activities\\\/system\",\"definition\":{\"type\":\"http:\\\/\\\/vocab.xapi.fr\\\/activities\\\/system\"}}"
     },
     {
-        type: "course",
-        id: 2,
-        xapi: "{\"objectType\":\"Activity\",\"id\":\"http:\\\/\\\/xapi.moodle.test\\\/xapi\\\/activities\\\/course\\\/8acfd7a3-2490-40c8-9b61-ec65d518f7da\",\"definition\":{\"type\":\"http:\\\/\\\/vocab.xapi.fr\\\/activities\\\/course\"}}"
+        "type": "course",
+        "id": 2,
+        "xapi": "{\"objectType\":\"Activity\",\"id\":\"http:\\\/\\\/xapi.moodle.test\\\/xapi\\\/activities\\\/course\\\/8acfd7a3-2490-40c8-9b61-ec65d518f7da\",\"definition\":{\"type\":\"http:\\\/\\\/vocab.xapi.fr\\\/activities\\\/course\"}}"
     },
     {
-        type: "lti",
-        id: 1,
-        xapi: "{\"objectType\":\"Activity\",\"id\":\"http:\\\/\\\/xapi.moodle.test\\\/xapi\\\/activities\\\/lti\\\/e403e7ee-4cdd-4d25-b7d9-5de3569a1cc2\",\"definition\":{\"type\":\"http:\\\/\\\/vocab.xapi.fr\\\/activities\\\/external-activity\"}}"
+        "type": "lti",
+        "id": 1,
+        "xapi": "{\"objectType\":\"Activity\",\"id\":\"http:\\\/\\\/xapi.moodle.test\\\/xapi\\\/activities\\\/lti\\\/e403e7ee-4cdd-4d25-b7d9-5de3569a1cc2\",\"definition\":{\"type\":\"http:\\\/\\\/vocab.xapi.fr\\\/activities\\\/external-activity\"}}"
     }
 ]
 ```
@@ -143,14 +143,14 @@ Une liste d'objets avec pour chacun d'eux un `type` et un  `id` Moodle (les mêm
 ``` json
 [
     {
-        type: "user",
-        id: 2,
-        xapi: "{\"objectType\":\"Agent\",\"account\":{\"homePage\":\"http:\\\/\\\/xapi.moodle.test\",\"name\":\"23a5bb2e-80c5-464a-8472-632261df912d\"}}"
+        "type": "user",
+        "id": 2,
+        "xapi": "{\"objectType\":\"Agent\",\"account\":{\"homePage\":\"http:\\\/\\\/xapi.moodle.test\",\"name\":\"23a5bb2e-80c5-464a-8472-632261df912d\"}}"
     },
     {
-        type: "user",
-        id: 10,
-        xapi: "{\"objectType\":\"Agent\",\"account\":{\"homePage\":\"http:\\\/\\\/xapi.moodle.test\",\"name\":\"564642e-80c5-464a-8472-632264564564\"}}"
+        "type": "user",
+        "id": 10,
+        "xapi": "{\"objectType\":\"Agent\",\"account\":{\"homePage\":\"http:\\\/\\\/xapi.moodle.test\",\"name\":\"564642e-80c5-464a-8472-632264564564\"}}"
     }
 ]
 ```
