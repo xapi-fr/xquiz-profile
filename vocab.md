@@ -21,11 +21,12 @@
 <a name="activities"></a>
 ## Types d'activités
 
-- Course : `http://adlnet.gov/expapi/activities/course`
-- Live Session : `http://vocab.xapi.fr/activities/live-session`
-- Profile : `http://adlnet.gov/expapi/activities/profile`
 - Question : `http://adlnet.gov/expapi/activities/question`
+- Session : `http://vocab.xapi.fr/activities/live-session`
+- External Activity : `http://vocab.xapi.fr/activities/external-activity`
+- Course : `http://adlnet.gov/expapi/activities/course`
 - System : `http://adlnet.gov/expapi/activities/system`
+- Profile : `http://adlnet.gov/expapi/activities/profile`
 
 
 <a name="activity-extensions"></a>

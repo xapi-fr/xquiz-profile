@@ -17,9 +17,10 @@ Les agents peuvent être identifiés en clair de manière provisoire, à titre d
 ``` json
 "actor": {
     "objectType": "Agent",
+    "name": "Jon Snow",
     "account": {
         "homePage": "http://moodle.isae.fr",
-        "name": "john.snow"
+        "name": "jon.snow"
     }
 }
 ```
