@@ -50,21 +50,18 @@
         "contextActivities": {
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/system"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/course/ba297687-b1aa-4477-9efd-a782c8fdb90a",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/course"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/lti/e403e7ee-4cdd-4d25-b7d9-5de3569a1cc2",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/external-activity"
@@ -73,8 +70,13 @@
             ],            
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.isae.fr/vocab/profiles/xquiz",
+                    "definition": {
+                        "type": "http://adlnet.gov/expapi/activities/profile"
+                    }
+                },
+                {
+                    "id": "http://vocab.xapi.fr/categories/vle-profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
                     }
@@ -136,7 +138,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xquiz.isae.fr/xapi/activities/session/123456",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/live-session"
@@ -145,21 +146,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/system"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/course/ba297687-b1aa-4477-9efd-a782c8fdb90a",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/course"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/lti/e403e7ee-4cdd-4d25-b7d9-5de3569a1cc2",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/external-activity"
@@ -167,8 +165,13 @@
             ],            
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.isae.fr/vocab/profiles/xquiz",
+                    "definition": {
+                        "type": "http://adlnet.gov/expapi/activities/profile"
+                    }
+                },
+                {
+                    "id": "http://vocab.xapi.fr/categories/vle-profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
                     }
@@ -229,7 +232,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xquiz.isae.fr/xapi/activities/session/123456",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/live-session"
@@ -238,21 +240,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/system"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/course/ba297687-b1aa-4477-9efd-a782c8fdb90a",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/course"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/lti/e403e7ee-4cdd-4d25-b7d9-5de3569a1cc2",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/external-activity"
@@ -260,8 +259,13 @@
             ],            
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.isae.fr/vocab/profiles/xquiz",
+                    "definition": {
+                        "type": "http://adlnet.gov/expapi/activities/profile"
+                    }
+                },
+                {
+                    "id": "http://vocab.xapi.fr/categories/vle-profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
                     }
@@ -315,7 +319,6 @@
         "contextActivities": {
             "parent": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xquiz.isae.fr/xapi/activities/session/123456",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/live-session"
@@ -324,21 +327,18 @@
             ],
             "grouping": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/system"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/course/ba297687-b1aa-4477-9efd-a782c8fdb90a",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/course"
                     }
                 },
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.moodle.test/xapi/activities/lti/e403e7ee-4cdd-4d25-b7d9-5de3569a1cc2",
                     "definition": {
                         "type": "http://vocab.xapi.fr/activities/external-activity"
@@ -346,8 +346,13 @@
             ],            
             "category": [
                 {
-                    "objectType": "Activity",
                     "id": "http://xapi.isae.fr/vocab/profiles/xquiz",
+                    "definition": {
+                        "type": "http://adlnet.gov/expapi/activities/profile"
+                    }
+                },
+                {
+                    "id": "http://vocab.xapi.fr/categories/vle-profile",
                     "definition": {
                         "type": "http://adlnet.gov/expapi/activities/profile"
                     }
