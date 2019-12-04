@@ -48,9 +48,11 @@ En production, on s’appuie sur des identifiants anonymisés, gérés de maniè
 
 
 <a name="profile"></a>
-## Profil xQuiz
+## Profils
 
-Le profil xQuiz est identifié par `http://xapi.isae.fr/vocab/profiles/xquiz`.
+- Le profil xQuiz est identifié par `http://xapi.isae.fr/vocab/profiles/xquiz`.
+
+- Le profil VLE est identifié par `http://vocab.xapi.fr/categories/vle-profile`.
 
 
 
